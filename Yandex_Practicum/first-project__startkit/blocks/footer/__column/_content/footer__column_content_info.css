@@ -1,0 +1,5 @@
+.footer__column_content_info {
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+}
